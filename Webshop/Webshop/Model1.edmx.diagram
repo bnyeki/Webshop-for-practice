@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="72b6937bad614c84b8d96778d9a4ee68" Name="Diagram1">
+      <Diagram DiagramId="bd569d3f92e04b018759e248c566ae7d" Name="Diagram1">
         <EntityTypeShape EntityType="WebshopDBModel.AspNetRoles" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
         <EntityTypeShape EntityType="WebshopDBModel.AspNetUserClaims" Width="1.5" PointX="5.25" PointY="3.125" IsExpanded="true" />
         <EntityTypeShape EntityType="WebshopDBModel.AspNetUserLogins" Width="1.5" PointX="5.25" PointY="5.875" IsExpanded="true" />
@@ -14,7 +14,6 @@
         <EntityTypeShape EntityType="WebshopDBModel.AvatarImage" Width="1.5" PointX="6" PointY="10.125" IsExpanded="true" />
         <EntityTypeShape EntityType="WebshopDBModel.Product" Width="1.5" PointX="6" PointY="12.625" IsExpanded="true" />
         <EntityTypeShape EntityType="WebshopDBModel.ProductImage" Width="1.5" PointX="3.75" PointY="12.875" IsExpanded="true" />
-        <EntityTypeShape EntityType="WebshopDBModel.sysdiagrams" Width="1.5" PointX="8.75" PointY="1" IsExpanded="true" />
         <AssociationConnector Association="WebshopDBModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
         <AssociationConnector Association="WebshopDBModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
         <AssociationConnector Association="WebshopDBModel.FK_Avatar_AvatarCast" ManuallyRouted="false" />
